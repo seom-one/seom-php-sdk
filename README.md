@@ -216,7 +216,7 @@ See the [`examples/`](examples/) directory:
 
 ## API reference
 
-Full API reference: **[docs.seom.one/api](https://docs.seom.one/api)**
+Full API reference: **[seom.one/docs](https://seom.one/docs)**
 
 ## License
 
